@@ -11,3 +11,4 @@ Known Issues
 	
 - When opening your inventory with REI (Roughly Enough Items) enabled as soon as you access a different dimension (going through portal) it may crash your client.
 	- Solution: Hide REI using Ctrl+O when inventory is open to avoid crashes when going through dimensions.
+	- Another Solution: Disable Canvas mod
