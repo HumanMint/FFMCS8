@@ -1,56 +1,10 @@
 { 
 	"basics": { 
 		"favorites": [ 
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:splash_potion",
-					"Count": 127,
-					"tag": { 
-						"Potion": "minecraft:fire_resistance"
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "techreborn:basic_drill",
-					"Count": 127,
-					"tag": { 
-						"energy": 10000.0
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:charcoal",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:yellow_wool",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:stripped_oak_wood",
-					"Count": 127,
-					"type": "item"
-				}
-			}
-		],
+],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": false,
+		"favoritesEnabled": true,
 		"keyBindings": { 
 			"recipeKeybind": { 
 				"keyCode": "key.keyboard.r",
