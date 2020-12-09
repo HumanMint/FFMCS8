@@ -34,9 +34,6 @@ lambdynamiclights-fabric-1.3.2+1.16.4.jar
 light-overlay-5.5.4.jar
 	- Visual UI of light level in the game
 
-MoreTooltips-1.0.1.jar
-	- Item list on the right side when inventory open
-
 mousewheelie-1.5.10+mc1.16.4.jar
 	- Utility features using mouse wheel configurations
 
