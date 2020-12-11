@@ -10,3 +10,5 @@ Known Issues [2.0.0]
 	- Solution: Temporarily uninstall Canvas mod when setting up the campanion items, and when done you may re-load Canvas.
 	
 - When dying with one piece of armor, the armor disappears from the gravestone
+
+- Waystones not available..?
